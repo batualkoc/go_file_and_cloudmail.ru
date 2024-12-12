@@ -32,8 +32,8 @@ A Telegram bot that automatically downloads files from Gofile.io and Cloud Mail.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gofile-and-cloudmailru-downloader.git
-cd gofile-and-cloudmailru-downloader
+git clone https://github.com/batualkoc/go_file_and_cloudmail.ru.git
+cd gofile_and_cloudmailru
 ```
 
 2. Install required packages:
@@ -112,7 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📮 Contact
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Your Name - [@batualkoc](https://github.com/batualkoc)
 
-Project Link: [https://github.com/yourusername/gofile-and-cloudmailru-downloader](https://github.com/yourusername/gofile-and-cloudmailru-downloader)
+Project Link: [https://github.com/batualkoc/go_file_and_cloudmail.ru](https://github.com/batualkoc/go_file_and_cloudmail.ru)
 
